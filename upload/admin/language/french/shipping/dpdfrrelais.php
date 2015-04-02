@@ -21,8 +21,8 @@ $_['text_delivery']		= '<br/><br/><span class="help">Activer / Désactiver la li
 $_['text_agence']		= '<br/><br/><span class="help">(Sur 3 chiffres, ex: 013)</span>';
 $_['text_cargo']		= '<br/><br/><span class="help">(Sur 4 ou 5 chiffres, sans code agence, ni zéros devant, tirets...)</span>';
 $_['text_advalorem']	= '<br/><br/><span class="help">Désactivé : Assurance des colis à 23€ / kg transporté (cdt. LOTI). <br/>Activé : Assurance à hauteur de la valeur marchande, implique un coût additionnel : cf. vos conditions tarifaires.</span>';
-$_['text_suppiles']		= '€ <br/><br/><span class="help">(-1 pour désactiver la livraison sur ces zones)</span>';
-$_['text_suppmontagne']	= '€ <br/><br/><span class="help">(-1 pour désactiver la livraison sur ces zones)</span>';
+$_['text_suppiles']		= '€';
+$_['text_suppmontagne']	= '€';
 $_['text_sort_order']	= '<br/><br/><span class="help">Modifie le classement des transporteurs par ordre croissant</span>';
 $_['text_franco']		= '<br/><br/><span class="help">Laissez ce champ vide si vous ne souhaitez pas établir de franco de port.<br/>Les suppléments de zones Montagne et Iles du littoral seront tout de même ajoutés.</span>';
 $_['text_mypudo']		= '<br/><br/><span class="help">Attention! Réglage sensible. Aucun espace ne doit être saisi</span>';

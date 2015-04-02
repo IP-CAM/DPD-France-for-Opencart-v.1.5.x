@@ -21,8 +21,8 @@ $_['text_delivery']		= '<br/><br/><span class="help">Enable / Disable delivery t
 $_['text_agence']		= '<br/><br/><span class="help">(3 digits, i.e.: 013)</span>';
 $_['text_cargo']		= '<br/><br/><span class="help">(4 or 5 digits, no depot code, no preceding zeros, dashes...)</span>';
 $_['text_advalorem']	= '<br/><br/><span class="help">Disabled : Parcel insurance up to 23€ / shipped kg (cdt. LOTI). <br/>Enabled : Insurance up to the goods value, implies an additional cost : cf. your pricing conditions.</span>';
-$_['text_suppiles']		= '€ <br/><br/><span class="help">(-1 to disable delivery to these areas)</span>';
-$_['text_suppmontagne']	= '€ <br/><br/><span class="help">(-1 to disable delivery to these areas)</span>';
+$_['text_suppiles']		= '€';
+$_['text_suppmontagne']	= '€';
 $_['text_mypudo']		= '<br/><br/><span class="help">Caution! Critical setting, no spaces must be entered</span>';
 $_['text_sort_order']	= '<br/><br/><span class="help">Sort carriers in the front-office by ascending order</span>';
 $_['text_franco']		= '<br/><br/><span class="help">This field should be empty if you don\'t want to set a free shipping rule.<br/>Mountain and Islands zones overcost still applies.</span>';
